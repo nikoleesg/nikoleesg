@@ -1,4 +1,4 @@
-# Niko Lee
+# Niko
 
 Singapore. I build data-collection and survey-operations platforms in Laravel, and the
 integrations around them: survey and fieldwork platforms (Nfield, Qualtrics), WeChat, OpenAI, and
