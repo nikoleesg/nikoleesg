@@ -10,8 +10,6 @@ My production work belongs to my employers and is not public. What is here I mai
   `z-song/laravel-admin`, which has had no upstream maintenance since 2023. v3.0 targets PHP 8.3+
   and Laravel 11/12, with CI across PHP 8.3/8.4 × Laravel 11/12 and security fixes. My production
   platforms run on it.
-- **[survey](https://github.com/nikoleesg/survey)**: a Laravel package that loads fixed-width survey
-  exports (closed answers, verbatims, paradata) and queries them back as typed answers.
 - **[laravel-helpers](https://github.com/nikoleesg/laravel-helpers)**: Laravel building blocks,
   several Singapore-specific: a OneMap client, date scopes, base classes for durable workflows, and
   Singapore Faker providers.
